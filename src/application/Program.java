@@ -7,5 +7,6 @@ public class Program {
 		ChessMath chessMath = new ChessMath();
 		UI.printBoard(chessMath.getPieces());
 	}
+	
 
 }
